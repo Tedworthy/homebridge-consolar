@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-consolar",
+  "version": "1.0.1",
+  "description": "Consolar plugin for homebridge",
+  "author": {
+    "name": "Ted Sales"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tedworthy/homebridge-consolar.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "request": "2.88.0",
+    "async": "2.6.1"
+  }
+}

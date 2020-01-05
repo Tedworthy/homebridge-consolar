@@ -1,0 +1,30 @@
+{
+    "accessory": "Consolar",
+    "baseUrl": "https://consolar.remoteportal.de",
+    "sessionCookieRequestUrl": "https://consolar.remoteportal.de/mobile/",
+    "autoLoginCookieValue": "1234567890",
+    "tempRequestUrl": "https://consolar.remoteportal.de/mobile/index.php?pto[area]=-controller&pto[id]=-12345&pto[parent]=-67890",
+    "temps": [
+        {
+            "id": "123456",
+            "name": "Store Top"
+        },
+        {
+            "id": "123457",
+            "name": "Store Middle"
+        },
+        {
+            "id": "123458",
+            "name": "Store Bottom"
+        },
+        {
+            "id": "123459",
+            "name": "Solar"
+        },
+        {
+            "id": "123460",
+            "name": "Wood Burner"
+        }
+    ],
+    "tempCacheRefreshIntervalMs": 5000
+}
