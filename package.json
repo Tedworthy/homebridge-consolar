@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "request": "2.88.0",
-    "async": "2.6.1"
+    "async": "2.6.4"
   }
 }
